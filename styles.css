@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  header {
+    background-color: #0e0a0a;
+    color: #b90909;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  #about {
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  #about img {
+    width: 200px;
+    border-radius: 100%;
+  }
+  
+  #skills {
+    padding: 0px 0;
+  }
+  
+  #skills ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  #skills li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  #projects {
+    padding: 50px 0;
+  }
+  
+  .project {
+    margin-bottom: 30px;
+  }
+  
+  
+  
+  #resume {
+    padding: 0px;
+    text-align: center;
+  }
+  
+  #contact {
+    background-color: #8e4545;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
